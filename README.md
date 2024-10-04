@@ -284,7 +284,7 @@ mysql -uroot -p$MYSQL_ROOT_PASSWORD $MYSQL_DATABASE < /usr/local/bin/wordpress.s
 ## REDIS
 ### Useful links
 - [What is redis works with wordpress and what is a cache](https://www.section.io/engineering-education/how-to-set-up-and-configure-redis-caching-for-wordpress/)  
-- [How to set up redis (english article)](https://www.vultr.com/docshow-to-setup-redis-caching-for-wordpress-with-ubuntu-20-04-and-nginx/)  
+- [How to set up redis (english article)](https://docs.vultr.com/how-to-setup-redis-caching-for-wordpress-with-ubuntu-20-04-and-nginx)  
 - [how to set up redis(french article)](https://gaelbillon.com/installer-et-configurer-redis-pour-wordpress-en-5-minutes/)  
 
 ### Definition
